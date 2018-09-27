@@ -1,0 +1,48 @@
+.navbar {
+    border-bottom: 3px solid #cccccc;
+    height: 100px
+}
+
+.navbar-brand {
+    color: white;
+    border-bottom: 3px solid #cccccc;
+    height: 100px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 50px;
+    padding: 20px;
+}
+
+.navbar-nav {
+    position: fixed;
+    top: 40px;
+    right: 100px;
+    height: 20px;
+    font-size: 18px;
+    line-height: 0px;
+}
+.nav-item1 {
+    border-right: 1px solid #cccccc;
+}
+.nav-item2 {
+    border-right: 1px solid #cccccc;
+}
+
+.card-body {
+    border-top: 3px solid #4aaaaf;
+    height: 70px;
+    position: fixed;
+    bottom: 0;
+    background-color:#666666;
+    color: white;
+    text-align: center;
+    border-top: 7px solid #4aaaa5;
+    width: 100%
+}
+
+form {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
